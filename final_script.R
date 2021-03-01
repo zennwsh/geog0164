@@ -65,7 +65,5 @@ mapdeck(
     , stroke_width = "scaled_sci_10000" 
   )
 
-# The map appears as an interactive one in Viewer. I am unaware of any
-# way to save the map except for the 'Export' button in Viewer. 
-# Saving as webpage gives you an interactive map while saving as image
-# gives you a static one. 
+# The map appears as an interactive one in Viewer. I am unaware of any way to save the map except for the 'Export' button in Viewer. 
+# Saving as webpage gives you an interactive map, while saving as image gives you a static one. 
